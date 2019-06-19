@@ -19,7 +19,7 @@ few key points:
 ## Step 2: Feature Transformation
 In this stage of the project, we will attend to the following points:
 
-+ The first technique that we should perform on your data is feature scaling. 
++ The first technique that we should perform on the data is feature scaling. 
 + Then apply principal component analysis (PCA) to find the vectors of maximal variability. How much variability in the data does each principal component capture? 
 
 ## Step 3: Clustering
